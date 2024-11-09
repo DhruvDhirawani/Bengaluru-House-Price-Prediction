@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the dataset
-file_path = "G:\Data Science Projects\Bengaluru House Price Prediction\Bengaluru_House_Data.csv"
+file_path = "G:\resume Data science\Bengaluru-House-Price-Prediction\Bengaluru_House_Data.csv"
 df = pd.read_csv(file_path)
 
 # Display the first few rows of the dataframe
